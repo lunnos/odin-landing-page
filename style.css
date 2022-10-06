@@ -109,5 +109,43 @@
     margin: 0 auto;
 }
 
+.call {
+    margin: 100px;
+}
 
+.action-container {
+    background-color: #3882F6;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+    padding: 50px 100px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
+#signup {
+    padding-top: 20px;
+}
+
+#signup a{
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px 30px;
+    font-weight: bold;
+}
+
+.footer{
+    height: 100px;
+    background-color: #1F2937;
+    color: white;
+
+}
+
+.footer p{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
